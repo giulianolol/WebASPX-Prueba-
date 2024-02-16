@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\primerejemplo\\ejemplohtml.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|solutionrelative:primerejemplo\\ejemplohtml.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|c:\\users\\administrador\\desktop\\programacion\\curso c# maxi programa nivel 2\\primera web\\primerejemplo\\ejemploaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|solutionrelative:primerejemplo\\ejemploaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\primerejemplo\\ejemploaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6E9AE8C-280B-4621-9C9A-D08145B53834}|PrimerEjemplo\\PrimerEjemplo.csproj|solutionrelative:primerejemplo\\ejemploaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjemploASPX.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploASPX.aspx.cs",
+              "RelativeDocumentMoniker": "PrimerEjemplo\\EjemploASPX.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploASPX.aspx.cs",
+              "RelativeToolTip": "PrimerEjemplo\\EjemploASPX.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T20:37:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EjemploASPX.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploASPX.aspx",
+              "RelativeDocumentMoniker": "PrimerEjemplo\\EjemploASPX.aspx",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploASPX.aspx",
+              "RelativeToolTip": "PrimerEjemplo\\EjemploASPX.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-15T20:35:19.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjemploHTML.html",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploHTML.html",
+              "RelativeDocumentMoniker": "PrimerEjemplo\\EjemploHTML.html",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Programacion\\Curso C# Maxi Programa Nivel 2\\Primera Web\\PrimerEjemplo\\EjemploHTML.html",
+              "RelativeToolTip": "PrimerEjemplo\\EjemploHTML.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-15T20:34:14.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
